@@ -20,13 +20,6 @@ body {
 	flex-direction: row;
 }
 
-@media (max-width: 768px) {
-  main {
-    flex-direction: column;
-    width: 90vw;
-    align-items: center;
-  }
-	
 .menu {
 	display: flex;
 	flex-direction: column;
